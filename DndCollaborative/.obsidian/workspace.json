@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "127f70d4f6a49a45",
+        "id": "20f880fdd47006c1",
         "type": "tabs",
         "children": [
           {
-            "id": "232354a8a5ce2cbc",
+            "id": "29a917a38ceed994",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome!!.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "e710e2db317fda51",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome!!.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "232354a8a5ce2cbc",
+  "active": "8abc8938f5be6184",
   "lastOpenFiles": [
+    "World/world maps/Untitled.canvas",
     "Welcome!!.md",
     "weee.md"
   ]
