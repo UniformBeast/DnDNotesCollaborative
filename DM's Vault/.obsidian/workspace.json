@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "29b1926dd14c8fd5",
+    "id": "771245865e3e8925",
     "type": "split",
     "children": [
       {
-        "id": "20f880fdd47006c1",
+        "id": "20abf00e085d5e03",
         "type": "tabs",
         "children": [
           {
-            "id": "29a917a38ceed994",
+            "id": "87d7e0cf731ac266",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3f27833e23a482bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/List of Creatures that will be used.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cd6032c1d6b09a2a",
+    "id": "2b3fc010a35710ec",
     "type": "split",
     "children": [
       {
-        "id": "88b182fd50aa3738",
+        "id": "135bd02633ac3169",
         "type": "tabs",
         "children": [
           {
-            "id": "8abc8938f5be6184",
+            "id": "d5fd664a4063774a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "fc81794af4eaac56",
+            "id": "0ae9da5cdc6ac934",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +54,7 @@
             }
           },
           {
-            "id": "feedce18d037f669",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "0295cb3f7ac322c3",
+            "id": "aaa932dc59aa438d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "e710e2db317fda51",
+    "id": "5fce116a6b46cb5d",
     "type": "split",
     "children": [
       {
-        "id": "9393d053e21381d6",
+        "id": "9d2c5170971ddb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "67f6b2ab51a9a8f4",
+            "id": "d24b99f57be21a84",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creatures/List of Creatures that will be used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +92,18 @@
             }
           },
           {
-            "id": "b875e18618fe5bc5",
+            "id": "a190c6f2f2cb2b34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creatures/List of Creatures that will be used.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "12bc6a6b13042cda",
+            "id": "9c378faaf544ed67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,13 +114,11 @@
             }
           },
           {
-            "id": "8c2c319f73ab84ad",
+            "id": "30709b0b1efbed3a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Creatures/List of Creatures that will be used.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,12 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f27833e23a482bb",
-  "lastOpenFiles": [
-    "Untitled.canvas",
-    "Creatures/List of Creatures that will be used.md",
-    "World/world maps/Untitled.canvas",
-    "Welcome!!.md",
-    "weee.md"
-  ]
+  "active": "87d7e0cf731ac266",
+  "lastOpenFiles": []
 }
